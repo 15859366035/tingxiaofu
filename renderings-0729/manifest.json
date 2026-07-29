@@ -1,0 +1,611 @@
+[
+  {
+    "source": "场景 1_5.jpg",
+    "slug": "facade-front",
+    "kind": "landscape",
+    "original": {
+      "width": 3840,
+      "height": 1937
+    },
+    "display": {
+      "file": "facade-front-2560.webp",
+      "width": 2560,
+      "height": 1291,
+      "bytes": 800610
+    },
+    "highDefinition": {
+      "file": "facade-front-3840.webp",
+      "width": 3840,
+      "height": 1937,
+      "bytes": 2245442
+    }
+  },
+  {
+    "source": "场景 18.jpg",
+    "slug": "facade-corner",
+    "kind": "landscape",
+    "original": {
+      "width": 3840,
+      "height": 2097
+    },
+    "display": {
+      "file": "facade-corner-2560.webp",
+      "width": 2560,
+      "height": 1398,
+      "bytes": 885658
+    },
+    "highDefinition": {
+      "file": "facade-corner-3840.webp",
+      "width": 3840,
+      "height": 2097,
+      "bytes": 2498964
+    }
+  },
+  {
+    "source": "场景 5_3.jpg",
+    "slug": "facade-entry",
+    "kind": "landscape",
+    "original": {
+      "width": 3621,
+      "height": 2208
+    },
+    "display": {
+      "file": "facade-entry-2560.webp",
+      "width": 2560,
+      "height": 1561,
+      "bytes": 920870
+    },
+    "highDefinition": {
+      "file": "facade-entry-3840.webp",
+      "width": 3621,
+      "height": 2208,
+      "bytes": 2227916
+    }
+  },
+  {
+    "source": "场景 8_5.jpg",
+    "slug": "arrival-wide",
+    "kind": "panorama",
+    "original": {
+      "width": 3840,
+      "height": 1200
+    },
+    "display": {
+      "file": "arrival-wide-3200.webp",
+      "width": 3200,
+      "height": 1000,
+      "bytes": 483780
+    },
+    "highDefinition": {
+      "file": "arrival-wide-3840.webp",
+      "width": 3840,
+      "height": 1200,
+      "bytes": 1111868
+    }
+  },
+  {
+    "source": "图片_2.jpg",
+    "slug": "arrival-courtyard",
+    "kind": "landscape",
+    "original": {
+      "width": 3682,
+      "height": 2437
+    },
+    "display": {
+      "file": "arrival-courtyard-2560.webp",
+      "width": 2560,
+      "height": 1694,
+      "bytes": 899984
+    },
+    "highDefinition": {
+      "file": "arrival-courtyard-3840.webp",
+      "width": 3682,
+      "height": 2437,
+      "bytes": 2222380
+    }
+  },
+  {
+    "source": "场景 31_2.jpg",
+    "slug": "arrival-threshold",
+    "kind": "portrait",
+    "original": {
+      "width": 3017,
+      "height": 3840
+    },
+    "display": {
+      "file": "arrival-threshold-2560.webp",
+      "width": 2011,
+      "height": 2560,
+      "bytes": 948218
+    },
+    "highDefinition": {
+      "file": "arrival-threshold-3840.webp",
+      "width": 3017,
+      "height": 3840,
+      "bytes": 3259952
+    }
+  },
+  {
+    "source": "场景 10_5.jpg",
+    "slug": "reception-passage",
+    "kind": "landscape",
+    "original": {
+      "width": 3408,
+      "height": 2436
+    },
+    "display": {
+      "file": "reception-passage-2560.webp",
+      "width": 2560,
+      "height": 1830,
+      "bytes": 678616
+    },
+    "highDefinition": {
+      "file": "reception-passage-3840.webp",
+      "width": 3408,
+      "height": 2436,
+      "bytes": 2076328
+    }
+  },
+  {
+    "source": "场景 11_6.jpg",
+    "slug": "reception-display",
+    "kind": "landscape",
+    "original": {
+      "width": 3512,
+      "height": 2283
+    },
+    "display": {
+      "file": "reception-display-2560.webp",
+      "width": 2560,
+      "height": 1664,
+      "bytes": 534784
+    },
+    "highDefinition": {
+      "file": "reception-display-3840.webp",
+      "width": 3512,
+      "height": 2283,
+      "bytes": 1924636
+    }
+  },
+  {
+    "source": "场景 28_1.jpg",
+    "slug": "reception-detail",
+    "kind": "portrait",
+    "original": {
+      "width": 2923,
+      "height": 3840
+    },
+    "display": {
+      "file": "reception-detail-2560.webp",
+      "width": 1949,
+      "height": 2560,
+      "bytes": 600330
+    },
+    "highDefinition": {
+      "file": "reception-detail-3840.webp",
+      "width": 2923,
+      "height": 3840,
+      "bytes": 2887676
+    }
+  },
+  {
+    "source": "场景 3_5.jpg",
+    "slug": "window-dining-wide",
+    "kind": "landscape",
+    "original": {
+      "width": 3840,
+      "height": 2436
+    },
+    "display": {
+      "file": "window-dining-wide-2560.webp",
+      "width": 2560,
+      "height": 1624,
+      "bytes": 764918
+    },
+    "highDefinition": {
+      "file": "window-dining-wide-3840.webp",
+      "width": 3840,
+      "height": 2436,
+      "bytes": 2157438
+    }
+  },
+  {
+    "source": "场景 4_5.jpg",
+    "slug": "window-dining-long",
+    "kind": "landscape",
+    "original": {
+      "width": 3840,
+      "height": 2436
+    },
+    "display": {
+      "file": "window-dining-long-2560.webp",
+      "width": 2560,
+      "height": 1624,
+      "bytes": 797366
+    },
+    "highDefinition": {
+      "file": "window-dining-long-3840.webp",
+      "width": 3840,
+      "height": 2436,
+      "bytes": 2279444
+    }
+  },
+  {
+    "source": "场景 16_3.jpg",
+    "slug": "window-dining-table",
+    "kind": "landscape",
+    "original": {
+      "width": 3840,
+      "height": 2436
+    },
+    "display": {
+      "file": "window-dining-table-2560.webp",
+      "width": 2560,
+      "height": 1624,
+      "bytes": 514290
+    },
+    "highDefinition": {
+      "file": "window-dining-table-3840.webp",
+      "width": 3840,
+      "height": 2436,
+      "bytes": 1784008
+    }
+  },
+  {
+    "source": "场景 21_2.jpg",
+    "slug": "hall-overview",
+    "kind": "portrait",
+    "original": {
+      "width": 3072,
+      "height": 3840
+    },
+    "display": {
+      "file": "hall-overview-2560.webp",
+      "width": 2048,
+      "height": 2560,
+      "bytes": 218204
+    },
+    "highDefinition": {
+      "file": "hall-overview-3840.webp",
+      "width": 3072,
+      "height": 3840,
+      "bytes": 609700
+    }
+  },
+  {
+    "source": "场景 24_4.jpg",
+    "slug": "hall-panorama",
+    "kind": "panorama",
+    "original": {
+      "width": 3840,
+      "height": 1554
+    },
+    "display": {
+      "file": "hall-panorama-3200.webp",
+      "width": 3200,
+      "height": 1295,
+      "bytes": 441564
+    },
+    "highDefinition": {
+      "file": "hall-panorama-3840.webp",
+      "width": 3840,
+      "height": 1554,
+      "bytes": 972390
+    }
+  },
+  {
+    "source": "图片_3.jpg",
+    "slug": "hall-wide",
+    "kind": "panorama",
+    "original": {
+      "width": 3817,
+      "height": 1705
+    },
+    "display": {
+      "file": "hall-wide-3200.webp",
+      "width": 3200,
+      "height": 1429,
+      "bytes": 480552
+    },
+    "highDefinition": {
+      "file": "hall-wide-3840.webp",
+      "width": 3817,
+      "height": 1705,
+      "bytes": 1037070
+    }
+  },
+  {
+    "source": "场景 30_2.jpg",
+    "slug": "hall-display-wall",
+    "kind": "landscape",
+    "original": {
+      "width": 3128,
+      "height": 1601
+    },
+    "display": {
+      "file": "hall-display-wall-2560.webp",
+      "width": 2560,
+      "height": 1310,
+      "bytes": 406916
+    },
+    "highDefinition": {
+      "file": "hall-display-wall-3840.webp",
+      "width": 3128,
+      "height": 1601,
+      "bytes": 955124
+    }
+  },
+  {
+    "source": "场景 37.jpg",
+    "slug": "hall-dining-display",
+    "kind": "landscape",
+    "original": {
+      "width": 3807,
+      "height": 2436
+    },
+    "display": {
+      "file": "hall-dining-display-2560.webp",
+      "width": 2560,
+      "height": 1638,
+      "bytes": 399952
+    },
+    "highDefinition": {
+      "file": "hall-dining-display-3840.webp",
+      "width": 3807,
+      "height": 2436,
+      "bytes": 1183446
+    }
+  },
+  {
+    "source": "场景 9_6.jpg",
+    "slug": "corridor-long",
+    "kind": "portrait",
+    "original": {
+      "width": 2641,
+      "height": 3840
+    },
+    "display": {
+      "file": "corridor-long-2560.webp",
+      "width": 1761,
+      "height": 2560,
+      "bytes": 576692
+    },
+    "highDefinition": {
+      "file": "corridor-long-3840.webp",
+      "width": 2641,
+      "height": 3840,
+      "bytes": 2175388
+    }
+  },
+  {
+    "source": "场景 27_2.jpg",
+    "slug": "corridor-pause",
+    "kind": "portrait",
+    "original": {
+      "width": 2780,
+      "height": 3840
+    },
+    "display": {
+      "file": "corridor-pause-2560.webp",
+      "width": 1853,
+      "height": 2560,
+      "bytes": 507416
+    },
+    "highDefinition": {
+      "file": "corridor-pause-3840.webp",
+      "width": 2780,
+      "height": 3840,
+      "bytes": 1526160
+    }
+  },
+  {
+    "source": "场景 32_2.jpg",
+    "slug": "courtyard-box",
+    "kind": "landscape",
+    "original": {
+      "width": 3570,
+      "height": 2436
+    },
+    "display": {
+      "file": "courtyard-box-2560.webp",
+      "width": 2560,
+      "height": 1747,
+      "bytes": 674930
+    },
+    "highDefinition": {
+      "file": "courtyard-box-3840.webp",
+      "width": 3570,
+      "height": 2436,
+      "bytes": 2224208
+    }
+  },
+  {
+    "source": "场景 36_2.jpg",
+    "slug": "corridor-courtyard",
+    "kind": "portrait",
+    "original": {
+      "width": 2775,
+      "height": 3840
+    },
+    "display": {
+      "file": "corridor-courtyard-2560.webp",
+      "width": 1850,
+      "height": 2560,
+      "bytes": 647678
+    },
+    "highDefinition": {
+      "file": "corridor-courtyard-3840.webp",
+      "width": 2775,
+      "height": 3840,
+      "bytes": 2672216
+    }
+  },
+  {
+    "source": "场景 17_5.jpg",
+    "slug": "private-booth",
+    "kind": "portrait",
+    "original": {
+      "width": 3072,
+      "height": 3840
+    },
+    "display": {
+      "file": "private-booth-2560.webp",
+      "width": 2048,
+      "height": 2560,
+      "bytes": 267220
+    },
+    "highDefinition": {
+      "file": "private-booth-3840.webp",
+      "width": 3072,
+      "height": 3840,
+      "bytes": 919474
+    }
+  },
+  {
+    "source": "场景 23_4.jpg",
+    "slug": "private-round-table",
+    "kind": "landscape",
+    "original": {
+      "width": 3780,
+      "height": 2130
+    },
+    "display": {
+      "file": "private-round-table-2560.webp",
+      "width": 2560,
+      "height": 1443,
+      "bytes": 414926
+    },
+    "highDefinition": {
+      "file": "private-round-table-3840.webp",
+      "width": 3780,
+      "height": 2130,
+      "bytes": 1932582
+    }
+  },
+  {
+    "source": "场景 25_3.jpg",
+    "slug": "private-room-wide",
+    "kind": "landscape",
+    "original": {
+      "width": 3339,
+      "height": 2163
+    },
+    "display": {
+      "file": "private-room-wide-2560.webp",
+      "width": 2560,
+      "height": 1658,
+      "bytes": 501188
+    },
+    "highDefinition": {
+      "file": "private-room-wide-3840.webp",
+      "width": 3339,
+      "height": 2163,
+      "bytes": 1701926
+    }
+  },
+  {
+    "source": "场景 29_2.jpg",
+    "slug": "private-room-table",
+    "kind": "portrait",
+    "original": {
+      "width": 3072,
+      "height": 3840
+    },
+    "display": {
+      "file": "private-room-table-2560.webp",
+      "width": 2048,
+      "height": 2560,
+      "bytes": 599240
+    },
+    "highDefinition": {
+      "file": "private-room-table-3840.webp",
+      "width": 3072,
+      "height": 3840,
+      "bytes": 2095022
+    }
+  },
+  {
+    "source": "场景 38.jpg",
+    "slug": "private-room-corner",
+    "kind": "portrait",
+    "original": {
+      "width": 3074,
+      "height": 3840
+    },
+    "display": {
+      "file": "private-room-corner-2560.webp",
+      "width": 2049,
+      "height": 2560,
+      "bytes": 466808
+    },
+    "highDefinition": {
+      "file": "private-room-corner-3840.webp",
+      "width": 3074,
+      "height": 3840,
+      "bytes": 1807726
+    }
+  },
+  {
+    "source": "场景 39.jpg",
+    "slug": "private-room-detail",
+    "kind": "landscape",
+    "original": {
+      "width": 3840,
+      "height": 2436
+    },
+    "display": {
+      "file": "private-room-detail-2560.webp",
+      "width": 2560,
+      "height": 1624,
+      "bytes": 462708
+    },
+    "highDefinition": {
+      "file": "private-room-detail-3840.webp",
+      "width": 3840,
+      "height": 2436,
+      "bytes": 1776916
+    }
+  },
+  {
+    "source": "场景 26_1.jpg",
+    "slug": "detail-tableware",
+    "kind": "portrait",
+    "original": {
+      "width": 2948,
+      "height": 3840
+    },
+    "display": {
+      "file": "detail-tableware-2560.webp",
+      "width": 1965,
+      "height": 2560,
+      "bytes": 393086
+    },
+    "highDefinition": {
+      "file": "detail-tableware-3840.webp",
+      "width": 2948,
+      "height": 3840,
+      "bytes": 1115080
+    }
+  },
+  {
+    "source": "场景 35_1.jpg",
+    "slug": "detail-light-material",
+    "kind": "portrait",
+    "original": {
+      "width": 3072,
+      "height": 3840
+    },
+    "display": {
+      "file": "detail-light-material-2560.webp",
+      "width": 2048,
+      "height": 2560,
+      "bytes": 610792
+    },
+    "highDefinition": {
+      "file": "detail-light-material-3840.webp",
+      "width": 3072,
+      "height": 3840,
+      "bytes": 2133768
+    }
+  }
+]
